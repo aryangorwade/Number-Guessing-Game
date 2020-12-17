@@ -1,7 +1,4 @@
 /**
- * CS1A, Assignment 4, "Guessing Game" <br>
- * Quarter: Fall 2020 <br>
- * Instructor: Baba Kofi Weusijana <br>
  *  This program creates a game where the user will be given at most 7 attempts to 
  * guess a secret number that the program has chosen. To begin, the user is introduced 
  * to the game and shown a set of rules. Throughout the game, the user will be given 
@@ -24,7 +21,7 @@
  * always win the game within 7 guesses.
  * 
  * @author Aryan Gorwade
- * @author Mary Boyajian
+ * @author <partner prefers anonymity>
  */
 public class Game_Program extends Object
 {
